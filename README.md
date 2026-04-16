@@ -35,14 +35,7 @@ across ~14M events from October and November 2019.
 │   ├── 03_benchmarks.ipynb
 │   └── 04_queries.ipynb
 ├── reports/
-│   ├── performance_report.pdf
-│   ├── performance_charts.png
-│   ├── q1_funnel.csv
-│   ├── q2_sessions.csv
-│   ├── q3_top_brands.csv
-│   ├── q4_churn.csv
-│   ├── q5_hourly.csv
-│   └── pipeline_run.json
+│  
 └── requirements.txt
 ```
 
