@@ -9,11 +9,11 @@ from transform import transform
 from load      import load
 
 # ── config ───────────────────────────────────────────────────────────
-DB_PATH    = '/content/drive/MyDrive/YOUR_FOLDER/ecommerce.duckdb'
-LOG_PATH   = '/content/drive/MyDrive/YOUR_FOLDER/reports/pipeline_run.json'
+DB_PATH    = '/content/drive/MyDrive/assignment/ecommerce.duckdb'
+LOG_PATH   = '/content/drive/MyDrive/assignment/reports/pipeline_run.json'
 FILES      = {
-    '2019-10': '/content/drive/MyDrive/YOUR_FOLDER/2019-Oct.csv',
-    '2019-11': '/content/drive/MyDrive/YOUR_FOLDER/2019-Nov.csv',
+    '2019-10': '/content/drive/MyDrive/assignment/archive/2019-Oct.csv',
+    '2019-11': '/content/drive/MyDrive/assignment/archive/2019-Nov.csv',
 }
 CHUNK_SIZE = 100_000
 
