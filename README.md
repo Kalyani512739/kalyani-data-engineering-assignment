@@ -8,8 +8,7 @@ Branch: Computer Science / Data Engineering
 
 ## Overview
 
-End-to-end data engineering pipeline over the 
-[eCommerce Behavior Dataset](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store).
+End-to-end data engineering pipeline.
 Covers schema design, ETL, benchmarking, data quality, and analytical queries
 across ~14M events from October and November 2019.
 
@@ -51,7 +50,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Add the raw data
-Download `2019-Oct.csv` and `2019-Nov.csv` from the assignment Drive link.
+Add `2019-Oct.csv` and `2019-Nov.csv` from the archive Drive link to google collab.
 Place them in `data/raw/`. They are gitignored and must not be committed.
 
 ### 3. Run schema setup
